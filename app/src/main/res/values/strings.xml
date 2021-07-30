@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buscando Herois Marvel API</string>
+    <string name="public_Key">318c14ccedfdfd5e6d81c21042079875</string>
+    <string name="private_key">0888430a24db3d80ff4eac3d22c1fc6ef253ac84</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
